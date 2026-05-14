@@ -1,1 +1,4 @@
 .claude/
+reports/collected/*.json
+reports/analysis/*.json
+reports/delivered/*.log
